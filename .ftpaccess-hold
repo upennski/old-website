@@ -1,0 +1,16 @@
+<Limit READ WRITE>
+AllowUser ameliaca
+AllowUser as
+AllowUser bandrew
+AllowUser dlchen
+AllowUser dnewm
+AllowUser doalex
+AllowUser eleitner
+AllowUser hanlonkj
+AllowUser jonesra
+AllowUser kuoiain
+AllowUser spada
+AllowUser speno
+AllowUser stevenjr
+DenyAll
+</Limit>

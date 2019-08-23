@@ -1,0 +1,33 @@
+body {
+	background-color: white;
+	font-family: "Arial Black", Gadget, sans-serif;
+	background-image: url('file:///C:/Users/Iain/Documents/Ski Team Site/logos/UpennSkiLogo2.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+
+#header {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid grey;
+	margin-bottom: 1%;
+}
+
+#header ul {
+	list-style-type: none;
+}
+
+#header ul li {
+	display: inline;
+	padding: 20px;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #990000;
+}
